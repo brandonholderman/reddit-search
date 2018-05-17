@@ -3,10 +3,10 @@ import superagent from 'superagent'
 
 class SearchForm extends Compnent {
   constructor(props) {
-  super(props)
-  this.state = {
-    searchFormBoard: '',
-    searchFormLimit: 50,
+    super(props)
+    this.state = {
+      searchFormBoard: '',
+      searchFormLimit: 50,
   }
 
   this.handleSubmit = this.handleSubmit.bind(this)

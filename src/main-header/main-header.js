@@ -1,6 +1,6 @@
-// import './_main-header.scss'
 import React, { Component } from 'react';
 import logo from '../logo.svg';
+// import './_main-header.scss'
 
 class MainHeader extends Component {
     render() {
