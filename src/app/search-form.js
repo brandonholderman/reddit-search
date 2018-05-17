@@ -1,7 +1,7 @@
-import React, { Compnent } from 'react'
+import React, { Component } from 'react'
 import superagent from 'superagent'
 
-class SearchForm extends Compnent {
+class SearchForm extends Component {
   constructor(props) {
     super(props)
     this.state = {
