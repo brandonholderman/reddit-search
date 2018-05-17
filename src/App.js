@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 import MainHeader from './main-header/main-header'
-import SearchForm from './app/SearchForm'
+import SearchForm from './app/search-form'
 
 class App extends Component {
   render() {
