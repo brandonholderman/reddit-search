@@ -13,3 +13,5 @@ class MainHeader extends Component {
         )
     }
 }
+
+export default MainHeader
